@@ -1,5 +1,5 @@
 color=orange
 if
-weather=sunny
+weathet=sad
 where is Perry?
 tudak/sudak
