@@ -1,1 +1,3 @@
-color=red
+color=orange
+if
+weathet=sunny
