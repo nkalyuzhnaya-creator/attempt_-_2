@@ -1,5 +1,3 @@
 color=red
-state=puk
-line: 3
 where is Perry?
 tudak/sudak
